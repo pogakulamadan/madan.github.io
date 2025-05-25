@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pogakula madan
+# 👋 Hi, I'm Pogakula Madan
 
 ## 🎓 Education
 
@@ -9,9 +9,9 @@
 - **SSC in SR Digi School**
   - March 2019  
 
-## 👨‍💻 About Me
+## 👨‍💻 Summary
 
-I am a Passionate Software Developer skilled in Full-Stack Java Development, Python, and SQL. Proficient in AWS and experienced with tools like NLTK, Docker and Figma.Eager to solve complex challenges and continuously learn new technologies to deliver impactful business results.
+I am a Passionate Software Developer skilled in Full-Stack Java Development, Python, and SQL. Proficient in AWS and experienced with tools like NLTK, Docker and Figma. Eager to solve complex challenges and continuously learn new technologies to deliver impactful business results.
 
 
 ## 🛠️ Skills
